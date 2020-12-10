@@ -1,0 +1,1 @@
+# COVID_Shopping_GIS
